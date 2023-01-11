@@ -1,2 +1,2 @@
-# Learning-C
-In this repo you will see my progression on learning C (kinda like what i did with ruby)
+# Where to learn
+https://www.codecademy.com/courses/learn-c/informationals/running-c-on-your-local-computer
