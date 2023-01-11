@@ -8,3 +8,14 @@
 #Note...
 # this is getting a bit easyer
 
+#include<stdio.h>
+
+int main() {
+  
+  int number;
+  int test_value;
+  int example;
+  float floatExample;
+  printf("Hello World!\n");
+
+}
